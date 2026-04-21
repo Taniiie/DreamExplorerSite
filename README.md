@@ -1,4 +1,4 @@
-# 🌌 Dream Explorer — Tactile Dreamscape
+# Dream Explorer — Tactile Dreamscape
 
 > *A magical 3D journey through creativity. Sculpt your ideas in a digital playground designed for dreamers.*
 
@@ -9,13 +9,13 @@
 
 ---
 
-## ✨ Overview
+## Overview
 
 **Dream Explorer** is a fully responsive, one-page portfolio/experience website built with a **Pixar-inspired "Tactile Dreamscape"** design system. It blends soft physics, glassmorphism, orbital animations, and atmospheric lighting to create an interface that users don't just browse — they *explore*.
 
 ---
 
-## 🎨 Design System — "The Tactile Dreamscape"
+## Design System — "The Tactile Dreamscape"
 
 | Token | Value | Usage |
 |---|---|---|
@@ -30,15 +30,15 @@
 - **Body** → `Be Vietnam Pro` (clean, geometric)
 
 **Key Rules:**
-- 🚫 No sharp corners — everything uses `rounded-full`, `rounded-xl`, `rounded-[2.5rem]`
-- 🚫 No solid borders — boundaries defined through tonal color shifts
-- ✅ Spring transitions → `cubic-bezier(0.175, 0.885, 0.32, 1.275)`
-- ✅ Glassmorphism on all floating elements
-- ✅ Ambient diffused shadows (never pure black)
+- No sharp corners — everything uses `rounded-full`, `rounded-xl`, `rounded-[2.5rem]`
+- No solid borders — boundaries defined through tonal color shifts
+- Spring transitions → `cubic-bezier(0.175, 0.885, 0.32, 1.275)`
+- Glassmorphism on all floating elements
+- Ambient diffused shadows (never pure black)
 
 ---
 
-## 📄 Sections
+## Sections
 
 | # | Section | Description |
 |---|---|---|
@@ -52,20 +52,8 @@
 
 ---
 
-## 🚀 Getting Started
 
-### Option 1 — Open directly
-Simply open `index.html` in any modern browser.
-
-### Option 2 — Serve locally (recommended)
-```bash
-npx serve . -l 3000
-```
-Then visit → **http://localhost:3000**
-
----
-
-## 📁 Project Structure
+## Project Structure
 
 ```
 Dream Explorer/
@@ -77,34 +65,7 @@ Dream Explorer/
 
 ---
 
-## 🌟 Features
-
-- ✅ **Fully Responsive** — works on mobile, tablet, and desktop
-- ✅ **Smooth Scroll Navigation** — sticky navbar with active section highlight
-- ✅ **Mobile Hamburger Menu** — animated toggle menu
-- ✅ **Scroll Reveal Animations** — elements fade up as you scroll
-- ✅ **Orbital Skill Animation** — CSS keyframe orbit with 5 nodes
-- ✅ **Interactive Contact Form** — with loading state and success feedback
-- ✅ **Glassmorphism UI** — frosted glass cards and nav
-- ✅ **Spring Micro-interactions** — hover scale/lift on all cards
-- ✅ **Navbar Shrink on Scroll** — compact nav on scroll down
-- ✅ **Zero build step** — pure HTML + Tailwind CDN + vanilla JS
-
----
-
-## 🛠️ Tech Stack
-
-| Technology | Purpose |
-|---|---|
-| HTML5 | Structure & semantics |
-| Tailwind CSS (CDN) | Utility-first styling |
-| Vanilla JavaScript | Interactions, animations, form logic |
-| Google Fonts | Plus Jakarta Sans + Be Vietnam Pro |
-| Google Material Symbols | Icon set |
-
----
-
-## 📸 Design Inspiration
+## Design Inspiration
 
 The **Tactile Dreamscape** design system draws from:
 - **Pixar/Disney** — soft volumes, depth, and light-emitting elements
@@ -114,7 +75,7 @@ The **Tactile Dreamscape** design system draws from:
 
 ---
 
-## 📜 License
+## License
 
 MIT © 2024 Dream Explorer. Built with imagination.
 
